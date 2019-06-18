@@ -17,15 +17,8 @@ npm run dev
 # do not forget to run mongodb :)
 ```
 
-## Postman
 
-our api test is on postman:<br>
-https://www.getpostman.com/collections/91ec44dd2f21635f6192
-
-> please install Postman and import collection to test api. <br>
-it's a very handy software to test api and make doc for that
-
-## Packages
+# Packages
 
 * **bcrypt** : encryption password
 * **emailsender** : send emails
